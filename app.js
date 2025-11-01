@@ -442,7 +442,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (emailInfo) {
         emailInfo.style.cursor = 'pointer';
         emailInfo.addEventListener('click', () => {
-            window.open('mailto:Gupta.garvit000@gmail.com');
+            window.open('mailto:guptagarvit000@gmail.com');
         });
     }
     
